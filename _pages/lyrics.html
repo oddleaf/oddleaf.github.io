@@ -1,0 +1,13 @@
+---
+title: 歌詞
+permalink: /lyrics/
+---
+<div>
+  {%- if site.lyrics.size > 0 -%}
+    <ul>
+      {%- for p in site.lyrics -%}
+        <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+</div>

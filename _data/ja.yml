@@ -1,0 +1,18 @@
+
+vars:
+  day_suffix: 曜日
+  year: 年
+  month: 月
+  day: 日
+  hour: 時
+  minute: 分
+  second: 秒
+
+days:
+  - 日
+  - 月
+  - 火
+  - 水
+  - 木
+  - 金
+  - 土

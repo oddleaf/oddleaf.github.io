@@ -1,0 +1,40 @@
+# 2021/04/28 12:38　木
+
+zh 9
+kr 3
+
+fa 3
+tk 2
+
+de 5
+ru 4
+
+fr 1
+es 2
+
+ar 1
+iw 1
+
+,,
+
+# seq
+
+[zh, de] -> [1y, 1y]     =  2y
+[ru, es] -> [1.5y, .5y]  =  2y
+[fa, kr] -> [.5y, .5y]   =  1y
+
+
+# targ
+
+- knowledge : zh, de, ru, 
+- social    : zh, ru, de, 
+- kawaii    : zh, kr, ru, 
+- elegant   : de, fr, es, ru, 
+
+,,
+
+(!) zh > de > ru > fr > kr
+(^) es > fa > tk
+
+; TOP-2 : zh, de
+; AUX-1 : es

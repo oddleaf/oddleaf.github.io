@@ -120,6 +120,7 @@ permalink: /shiori/
 
 * **ENTP**
   - [Why ENTP procrastination is linked to our functions, why Reddit (and the internet in general) works like a drug, Ne-Fe loops, and why Ti is a key part on stopping this - Reddit](https://www.reddit.com/r/entp/comments/3oa65b/why_entp_procrastination_is_linked_to_our/?utm_source=amp&utm_medium=&utm_content=post_body)
+  - [Types in Depth #7: ENTP - belatedintp@tumblr](https://belatedintp.tumblr.com/post/164417210294/types-in-depth-7-entp/amp)
   - [Who is the Turbulent ENTP (ENTP-T)? - Personality Hunt](https://personalityhunt.com/who-is-the-turbulent-entp-entp-t/)
   - [Any other ENTPs have a poor sense of self-identity? - Reddit](https://www.reddit.com/r/entp/comments/ibk6vc/any_other_entps_have_a_poor_sense_of_selfidentity/?utm_source=amp&utm_medium=&utm_content=comments_view_all)
   - [The 5w6 ENTP Personality Type (A Complete Guide) - PsychReel](https://psychreel.com/5w6-entp/)
@@ -144,6 +145,7 @@ permalink: /shiori/
   - [Enneagram Harmony Groups - Enneagram Explained](https://enneagramexplained.com/enneagram-harmony-groups/)
   - [Enneagram Harmonic Groups - Enneagram Explained](https://enneagramexplained.com/enneagram-harmonic-groups/)
   - [Healthy/Unhealthy Head Triad - funkymbtifiction@tumblr](https://funkymbtifiction.tumblr.com/post/175370479845/pulled-off-personalitycafe-saw-no-cited-source)
+  - [Paths of Disintegration (5, 6, 7, 8, 9) - thetypologymodel@tumblr](https://thetypologymodel.tumblr.com/post/631340942967914496/enneagram-path-of-disintegration)
   - [Instict Stacking - Enneagrammer](https://www.enneagrammer.com/instinct-stacking)
   - [sx/so (Sexual-dominant/Social-secondary) - saccharine-phantasm@tumblr](https://saccharine-phantasm.tumblr.com/sxso)
   - [sx/so vs. sx/sp - Personality Cafe](https://www.personalitycafe.com/threads/sx-so-vs-sx-sp.242713/)

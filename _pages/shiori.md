@@ -34,6 +34,7 @@ permalink: /shiori/
     - [Password Leak Check - Cybernews](https://cybernews.com/password-leak-check/)
     - [';--have i been pwned?](https://haveibeenpwned.com/)
   - [Convert to Zip - Online Archive Converter](https://archive.online-convert.com/convert-to-zip)
+  - [Plagiarism Checker](https://www.duplichecker.com/)
   - [SauceNAO - Image Source Locator](https://saucenao.com/)
   - [すごい名前生成器](https://namegen.jp/)
   - [名づけヒントボックス](https://namehintbox.com/)
@@ -114,6 +115,7 @@ permalink: /shiori/
 <br/>
 
 * **ENFP vs ENTP**
+  - [What are the crucial differences between ENFPs and ENTPs in the Myers-Briggs Type Indicator? - Quora](https://www.quora.com/What-are-the-crucial-differences-between-ENFPs-and-ENTPs-in-the-Myers-Briggs-Type-Indicator?top_ans=97515931)
   - [How to tell the difference between Tertiary Fe and aux Fi?](https://www.reddit.com/r/mbti/comments/4qurjp/how_to_tell_the_difference_between_tertiary_fe/)
 
 <br/>
@@ -146,6 +148,7 @@ permalink: /shiori/
   - [Enneagram Harmonic Groups - Enneagram Explained](https://enneagramexplained.com/enneagram-harmonic-groups/)
   - [Healthy/Unhealthy Head Triad - funkymbtifiction@tumblr](https://funkymbtifiction.tumblr.com/post/175370479845/pulled-off-personalitycafe-saw-no-cited-source)
   - [Paths of Disintegration (5, 6, 7, 8, 9) - thetypologymodel@tumblr](https://thetypologymodel.tumblr.com/post/631340942967914496/enneagram-path-of-disintegration)
+  - [Instictual Variants Stackings - Moonchious@aminoapps](https://aminoapps.com/c/myers-briggs/page/item/instinctual-variants-stackings/reBe_PmuqIxkYX0KoL4an333Vml8qDvlq1)
   - [Instict Stacking - Enneagrammer](https://www.enneagrammer.com/instinct-stacking)
   - [sx/so (Sexual-dominant/Social-secondary) - saccharine-phantasm@tumblr](https://saccharine-phantasm.tumblr.com/sxso)
   - [sx/so vs. sx/sp - Personality Cafe](https://www.personalitycafe.com/threads/sx-so-vs-sx-sp.242713/)

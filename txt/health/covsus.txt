@@ -1,12 +1,35 @@
+---
+permalink: /health/
+sitemap: false
+---
 
-# 2021/02/23 sel
-- (sore) badan panas, lalu reda
+**Jurnal Kesehatan**
 
-# 2021/02/24 rab
-- (pagi) badan panas, lalu reda
-- (15:21) badan panas, tdk trlalu tinggi
 
-# 2021/03/04 kam
+## 2021/07/09 jum
+akhir2 ini (4 hari ke belakang) badan terasa tidak enak.
+kepala pusing (tidak sakit, badan seperti agak terombang-ambing), berdebar, agak sesak nafas.
+* suspek: darah tinggi disertai kurang gula.
+** ada juga kemungkinan tifus. sekitar 4 hari yg lalu makan kecut (mangga muda, jeruk purut) dan roti dari emak (ada kemungkinan sisa gigitan tikus pada roti).
+** minum thiamphenicol.
+... asma (sesak disertai bunyi pada bronkial) jadi sering kambuh (teratasi dengan salbutamol ventolin inhaler).
+... saat tifus, biasanya disertai panas (cenderung persisten), batuk (jarang), sesak (*cenderung* kambuh dan tidak mempan hanya dengan salbutamol ventolin inhaler, tetapi teosal).
+... (!) tetapi kalau tidak salah, ini mulai sejak setelah membersihkan kamar (penuh debu), meski sambil memakai masker saat itu.
+
+
+----
+
+
+## 2021/03/07 min
+- (3:30) dini hari, dingin, badan panas (sedang)
+- (8:38) reda
+// info: emak bilang kalo malam badan panas (belum tanya selengkapnya)
+// self: suspect: (1) tipes, (2) cov?
+// self: panas kambuh saat: malam/dingin, 
+// self: gejala lain2: -
+
+
+## 2021/03/04 kam
 - (11:12) badan agak panas, sejak tadi
 - (11:54) badan tetep panas
 - (15:30) bangun tidur, badan mulai panas lagi
@@ -14,10 +37,11 @@
 // gejala: badan panas, tapi berkeringat.
 // gejala lain2: -
 
-# 2021/03/07 min
-- (3:30) dini hari, dingin, badan panas (sedang)
-- (8:38) reda
-// info: emak bilang kalo malam badan panas (belum tanya selengkapnya)
-// self: suspect: (1) tipes, (2) cov?
-// self: panas kambuh saat: malam/dingin, 
-// self: gejala lain2: -
+
+## 2021/02/24 rab
+- (pagi) badan panas, lalu reda
+- (15:21) badan panas, tdk trlalu tinggi
+
+
+## 2021/02/23 sel
+- (sore) badan panas, lalu reda

@@ -1,0 +1,191 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+
+/* *** CUSTOM MENU *** */
+
+.site-menu {
+  
+  .menu-trigger {
+    display: none;
+  }
+  
+  input ~ .trigger {
+    clear: both;
+    display: none;
+  }
+
+  input:checked ~ .trigger {
+    display: block;
+    padding-bottom: 10px;
+  }
+  
+  input:checked + label > .menu-icon {
+    transform: rotate(90deg) translateY(-5px) translateX(3px);
+  }
+  
+  label {
+    display: block;
+  }
+  
+  .menu-icon {
+    float: right;
+    width: 36px;
+    height: 26px;
+    line-height: 0;
+    padding-top: 20px;
+    text-align: center;
+    
+    /* input unchecked */
+    transition-duration: .1s;
+
+    > svg path {
+      fill: $border-color-03;
+    }
+  }
+  
+  .page-link {
+    color: $text-color;
+    line-height: $base-line-height;
+    display: block;
+    padding: 5px 10px;
+    text-align: center;
+    border-top: 1px solid $text-color;
+
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child) {
+      margin-right: 0;
+    }
+
+    &:last-of-type {
+      border-bottom: 1px solid $text-color;
+    }
+  }
+
+  @media screen and (min-width: $on-medium) {
+    position: static;
+    float: right;
+    border: none;
+    background-color: inherit;
+
+    label[for="nav-trigger"] {
+      display: none;
+    }
+
+    .menu-icon {
+      display: none;
+    }
+
+    input ~ .trigger {
+      display: block;
+    }
+
+    .page-link {
+      display: inline;
+      padding: 0;
+      border: none;
+
+      &:last-of-type {
+        border: none;
+      }
+
+      &:not(:last-child) {
+        margin-right: 20px;
+      }
+      margin-left: auto;
+    }
+  }
+}
+
+
+/* *** for categories.html *** */
+
+/*
+.categories-toc {}
+.categories-container {}
+*/
+
+.category-group {
+  color: white;
+  background: black;
+  border-radius: 7px;
+  
+  padding: 2px;
+  margin: 9px 0;
+}
+
+.category-name {
+  font-size: 1.2rem;
+  margin: 5px;
+}
+
+.category-content {
+  color: black;
+  background: white;
+  border-radius: 0 0 7px 7px;
+  
+  padding-top: 2px;
+  padding-bottom: 1px;
+  margin: 5px 4px;
+}
+
+.category-post-date {
+  font-size: .8rem;
+  font-weight: bolder;
+  text-align: center;
+  background: #dadada;
+}
+
+.categories-toc-item,
+.category-post {
+  margin: 4px 0;
+}
+
+/* avoid ordered list's numbers
+ * go outside of the container
+ */
+.category-group ol {
+  list-style-position: inside;
+  margin-left: 0;
+  padding: 0 5px;
+}
+
+
+/* *** custom styles *** */
+
+.center-content {
+  text-align: center;
+}
+
+.serif {
+  font-family: serif;
+}
+
+/* ** colors ** */
+
+.red {
+  color: red;
+}
+
+.blood {
+  /* somewhy unusable when pushed to github page */
+  color: #BA000F;
+}
+
+.vlood {
+  color: #C61800;
+}
+
+.pink {
+  color: #FF8F91;
+}
+
+.blue {
+  color: blue;
+}
+
+/* ** others ** */
+
+.bold {
+  font-weight: bold;
+}

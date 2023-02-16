@@ -1,0 +1,165 @@
+
+tanggal - hari/pasaran
+
+2023/02/15 11:11 rabu/pahing
+  +1jt
+  total: 1jt 500k
+  # tarik tunai di toko pk gpr
+
+2023/02/12 5:45 ahad/wage
+  -100k
+  sisa: 500k
+  # warung, kembalian disimpan
+
+2023/02/09 5:45 kamis/legi
+  -50k
+  sisa: 600k
+  # warung
+
+2023/02/07 6:10 selasa/wage
+  -50k
+  sisa: 650k
+  # beli lampu utk ruang tamu
+
+2023/02/06  5:53 senin/pon
+  -50k
+  sisa: 700k
+  # warung
+
+2023/02/04  5:43 sabtu/legi
+  -50k
+  sisa: 750k
+  # warung
+
+2023/01/30  5:44 senin/legi
+  -50k
+  sisa: 800k
+  # warung
+
+2023/01/27  5:50 jumat/pon
+  -50k
+  sisa: 850k
+  # warung
+
+2023/01/26 11:12 kamis/pahing
+  +500k
+  total: 900k
+
+2023/01/26 11:11 kamis/pahing
+  -250k
+  sisa: 400k
+  # utk ke karanggeneng
+
+2023/01/25  5:45 rabu/legi
+  -50k
+  sisa: 650k
+  # warung
+
+2023/01/22  5:43 ahad/pon
+  -50k
+  sisa: 700k
+  # warung
+
+2023/01/20  5:44 jumat/legi
+  -50k
+  # warung
+  sisa: 750k
+
+2023/01/14  5:50 sabtu/kliwon
+  -50k
+  # warung
+  sisa: 800k
+
+2023/01/10  5:50 selasa/legi
+  -50k
+  # warung
+  sisa: 850k
+
+2023/01/01 16:54 ahad/pahing
+  -100k
+  # beli obat 60k
+  # kembalian disimpan
+  sisa: 900k
+
+---
+
+2022/12/14  8:06 rabu/wage
+  -100k
+  # buat beras
+  # krn duwit emak dari org 100k hilang
+  sisa: 1jt
+
+2022/12/12  7:09 senin/pahing
+  -100k
+  # bwt beli lampu dll
+  # kembalian buat dll
+  sisa: 1jt 100k
+
+2022/12/06 13:03 selasa/legi
+  -300k
+  # bwt gopay
+  sisa: 1jt 200k
+  # karena setelah hitung ulang tadinya ternyata masih 1jt 500k
+
+2022/10/31 10:42 senin/kliwon
+  -200k
+  # yg 150k buat transfer ke moker, bwt sekolah adik, amal bwt mbahnang
+  # 5k biaya admin, susuk disimpan
+  sisa: 1jt 400k
+
+2022/10/27 20:24 kamis/legi
+  -100k
+  # emak priksa, saat makan sangkut di dada
+  # tidak jadi digunakan, cuma 'pinjam' saja katanya.
+  !!! 2022/10/31  5:28 senin/kliwon !!!
+  # katanya hilang, ditaruh di kursi kamar lama
+  sisa: 1jt 600k
+
+2022/10/26  6:18 rabu/kliwon
+  -150k
+  # titip ventolin inhaler sekalian ke pasar
+  -50k
+  # simpan di jok
+  sisa: 1jt 800k
+
+2022/09/28  8:51 rabu/pahing
+  -100k
+  sisa: 2jt
+  # tadi bwt beli lampu + jajan 26k 500 an
+  # kembaliannya diberi ke emak
+  # uang perak gw simpan
+
+2022/08/16  6:10 selasa/wage
+  -100k dari sisa sepeda
+  # bwt bancakan
+
+2022/08/16  6:08　selasa/wage
+  -200k
+  sisa: 2jt 100k
+  # bwt belanja
+
+2022/08/11 kamis/wage
+  -200k
+  sisa: 2jt 300k
+  # bwt belanja emak
+
+2022/08/10 14:42 rabu/pon
+  -100k
+  sisa: 2jt 500k
+  # kata emak: bwt urunan agustusan
+
+2022/08/01 senin/wage  # uang sepeda
+  ambil: 10jt 850k
+  simpan: semua
+  # total budget sepeda: 20jt 650k (sebelumnya dikurangi 200k buat isi gopay)
+  # kurangan harga sepeda: 18jt 800k
+
+2022/08/01 9:46 senin/wage
+  -50k
+  sisa: 2jt 600k
+  # kata emak: buat upah, duwit belanja masih ada, tp dipegang org
+
+2022/07/28 kamis/kliwon
+  ambil: 3jt 500k
+  simpan: 2jt 650k
+  dibawa emak: 850k

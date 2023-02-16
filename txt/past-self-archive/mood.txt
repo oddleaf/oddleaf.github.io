@@ -1,0 +1,80 @@
+# self mood fluctuation recording
+
+# mood index ranging from 0 up to 1
+# where 0 is suicidal (depressive/dysphoria) level
+# and 1 is manic (euphoria) level.
+
+# index drawn as decimal:
+# 0 1 2 3 4 5 6 7 8 9 10
+# |--+--|---+---|--+--|
+#    A      B      C
+
+# roughly...
+# <= .1 : unmanageable sadness
+# >= .9 : uncontrollable mania
+# around .5 (.4 - .6) : considerably normal, average level
+
+# >= .7 : (mildly) animated, more productive, task oriented, initiative, active (but still suppressed)
+# ** but it may be suppressed and just simply being on high energy *inside* without noticeable motion (unsatisfied desire to move)
+#    suppression reason may include: social/people related anxiety.
+
+# >= .8 : (imagined) me in *ideal* environment and condition (aka. at my best).
+#         highly animated, lively, bright, energetic, smiling, exude joy, motivating, positive, gentle/calm yet able to be loud, high self esteem, confident, easygoing, playful, youthful.
+# ** but, it's difficult to find such environment. so, normally I'm suppressed/silent yet may still have high energy bottled inside.
+
+# index allocation above is used to draw the limit of the spectrum
+# and to be used as relative comparator
+
+# (personal-case) note:
+# - higher mood may exude better behavior/attitude and increased mobility/motion/energy/motivation
+# - lower mood doesn't necessarily mean sadness (eg. anger)
+# - being bored/unmotivated and being lower in mood aren't the same
+
+* 2021/11/09 火
+19:17 .14  # 憂鬱へと
+
+* 2021/06/16 水
+8:56  .5   # after breakfast+watched anime
+10:01 .5   # flatness, normal, emotionless. after writing this note's descriptions
+11:27 .61  # listening to music. searching about cyclothymia (feeling being understood?)
+11:53 .5   # replaced note
+12:02 .66  # music + editing this note's description + imagined 'positive form' of self (? trigger: positive imagination ?)
+12:03 .5   # normal
+16:26 .37  # bored. "what to do?"
+16:27 .5   # normal
+18:02 .31  # lonely, wanted the better healthy (phys.ally & psyc.ally) environment
+18:05 .5   # 普通
+18:08 .31  # いい環境が欲しい
+18:48 .5   # 普通
+18:50 .3   # ストレス、面倒くさい、悲しみ、怒りの混同。例の前の部屋での騒ぎ、大声、争い、喧嘩。
+18:52 .39  # 喧嘩にはならなかったが、イヤホン着用、曲を大音量。一々例のやつの愚痴独り言で嫌な気分、全員消えて欲しいといつものように思う。
+
+* 2021/06/17 木
+4:21  .5   # 寝起き
+4:24  .4   # 何をしようか、勉強どうする？と
+5:19  .63  # 音楽「red alert」聞くときの例の興奮と怒りの混同。
+
+* 2021/06/18 金
+11:27 .38  # 退屈、虚無感
+16:23 .35  # なにもかも退屈、快楽ばかり探しちゃう
+19:43 .31  # 寂しい、考えるのだるい
+
+* 2021/06/19 土
+6:07  .4   # 甘酸っぱい切なさ。心閉ざす時の安心感。曲聞きながら
+6:42  .5   # 普通
+9:10  .65  # self reflection + anger (8-ish)
+12:02 .46  # 普通かな
+12:21 .63  # 荒波と成長
+
+* 2021/06/21 月
+3:46  .4   # 例の騒ぎ、うるさい
+
+* 2021/07/04 日
+13:52 .33  # 悲しい、寂しい、罪に関する悩み。体調優れない。不安定な状態、泣きそう、嫉妬心、劣等感。
+
+* 2021/07/05 月
+18:29 .35  # 寂しい、悲しい、体調不良、苦しい
+19:32 .47  # ご飯食べたあと。息まだちょっと苦しい
+
+* 2021/07/11 日
+21:11 .7   # somewhat hypomanic

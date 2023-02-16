@@ -1,0 +1,98 @@
+title: こもれび日記
+author:
+  name: 柊射矢
+  #email: ?@gmail.com
+description: >
+  備忘録・いろいろ
+
+lang: ja
+timezone: Asia/Jakarta
+encoding: utf-8
+markdown: kramdown
+
+paginate: 25
+paginate_path: /:num/
+
+show_excerpts: false # 投稿のあらすじ
+
+collections:
+  pages:
+    output: true
+  lyrics:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: "_pages"
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "_lyrics"
+      type: "lyrics"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"
+      #author: 柊射矢
+  -
+    scope:
+      path: "_posts/misc"
+    values:
+      categories: "無題"
+  -
+    scope:
+      path: "_posts/diary"
+    values:
+      categories: "日記"
+  -
+    scope:
+      path: "_posts/words"
+    values:
+      categories: "言葉"
+  -
+    scope:
+      path: "_posts/notes"
+    values:
+      categories: "ノート"
+  -
+    scope:
+      path: "_posts/articles"
+    values:
+      categories: "記事"
+  -
+    scope:
+      path: "_posts/stories"
+    values:
+      categories: "物語"
+
+minima:
+  #date_format: "%A, %F %R"
+  social_links:
+    github:  oddleaf
+    #twitter: 
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+ - _pages/categories.html
+ - _pages/crucial.md
+ - _pages/shiori.md
+ - _pages/todo.md
+ - _pages/lyrics.html
+ - _pages/quotes.md
+ - _pages/about.md
+
+theme: minima
+
+plugins:
+ - jekyll-seo-tag
+ - jekyll-paginate
+ - jekyll-feed
+ - jekyll-sitemap

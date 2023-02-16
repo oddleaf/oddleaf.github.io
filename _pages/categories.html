@@ -1,0 +1,50 @@
+---
+title: カテゴリ一覧
+permalink: /categories/
+---
+
+{%- assign categories = site.categories | sort -%}
+
+{%- if categories.size > 0 -%}
+  <div class="categories-toc">
+    <ul>
+      {%- for category in categories -%}
+        {%- assign category_name = category | first -%}
+        {%- assign category_size = site.categories[category_name].size -%}
+        {%- if category_size == 0 -%}
+          {%- continue -%}
+        {%- endif -%}
+        <li class="categories-toc-item"><a href="#{{ category_name | slugize }}">{{ category_name }}</a> ({{ category_size }})</li>
+      {% endfor %}
+    </ul>
+  </div>
+  <hr/>
+{%- endif -%}
+
+<div id="categories-container">
+  {%- for category in categories -%}
+    {%- assign category_name = category | first -%}
+    {%- assign category_size = site.categories[category_name].size -%}
+    {%- if category_size == 0 -%}
+      {%- continue -%}
+    {%- endif -%}
+    <div class="category-group">
+      <div id="{{ category_name | slugize }}" class="category-name"><strong>{{ category_name }}</strong> ({{ category_size }})</div>
+      <div class="category-content">
+        <ol>
+          {%- assign last_post_date = null -%}
+          {%- for post in site.categories[category_name] -%}
+            {%- assign this_post_date = post.date | date: '%Y年%m月' -%}
+            {%- if this_post_date != last_post_date -%}
+              {%- assign last_post_date = this_post_date -%}
+              <div class="category-post-date">{{ this_post_date }}</div>
+            {%- endif -%}
+            <li class="category-post"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+          {%- endfor -%}
+        </ol>
+      </div>
+    </div>
+  {%- else -%}
+    <h3>カテゴリなし…</h3>
+  {%- endfor -%}
+</div>

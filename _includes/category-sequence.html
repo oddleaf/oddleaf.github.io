@@ -1,0 +1,4 @@
+{%- assign post = post | default: page -%}
+{%- for cat in post.categories -%}
+  <a href="/categories/#{{ cat | slugize }}">{{ cat }}</a>{%- if forloop.last == false %}, {% endif -%}
+{%- endfor -%}

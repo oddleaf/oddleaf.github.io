@@ -1,0 +1,4 @@
+{%- assign get_date_p0 = get_date_p0 | default: page.date | default: site.time -%}
+{%- assign ja_day = get_date_p0 | date: '%w' | plus: 0 -%}
+{%- assign ja_day = site.data.ja.days[ja_day] -%}
+{{ get_date_p0 | date: '%Y/%m/%d' }}({{ ja_day }}) {{ get_date_p0 | date: '%R' }}

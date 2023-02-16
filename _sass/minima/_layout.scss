@@ -243,12 +243,14 @@
 
 .post-title,
 .post-content h1 {
-  @include relative-font-size(2.625);
+  //@include relative-font-size(2.625);
+  @include relative-font-size(1.8);
   letter-spacing: -1px;
   line-height: 1.15;
 
   @media screen and (min-width: $on-large) {
-    @include relative-font-size(2.625);
+    //@include relative-font-size(2.625);
+    @include relative-font-size(2.2);
   }
 }
 
@@ -259,10 +261,10 @@
   h4, h5, h6 { margin-top: $spacing-unit }
 
   h2 {
-    @include relative-font-size(1.75);
+    @include relative-font-size(1.6);
 
     @media screen and (min-width: $on-large) {
-      @include relative-font-size(2);
+      @include relative-font-size(1.8);
     }
   }
 

@@ -5,14 +5,14 @@ lang: en
 categories: Git
 title: How to delete git history
 ---
-Step 1: remove all history (**WARNING: can't be undone!**{:.red})
+#### Step 1: remove all history (**WARNING: can't be undone!**{:.red})
 
 ```bash
 cd repo
 rm -rf .git
 ```
 
-Step 2: reconstruct git repo
+#### Step 2: reconstruct git repo
 
 ```bash
 git init
@@ -20,7 +20,7 @@ git add .
 git commit -m "Deleted git history"
 ```
 
-Step 3: push to GitHub
+#### Step 3: push to GitHub
 
 ```bash
 git remote add origin <repo-url>

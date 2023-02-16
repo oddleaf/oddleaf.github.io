@@ -1,5 +1,6 @@
 ---
 date: 2021-01-15 10:28
+modified_date: 2023/02/16 12:10
 lang: en
 categories: Git
 title: How to use Dropbear with Github on Termux
@@ -24,7 +25,7 @@ dropbearkey -y -f ~/.ssh/id_dropbear | grep '^ssh-rsa ' > ~/.ssh/id_dropbear.pub
 3 - Create 'wrapper' for `ssh` (be careful of it's quote):
 
 ```bash
-echo 'ssh -i ~/.ssh/id_dropbear $*' > ~/../usr/bin/ssh-id
+echo 'ssh -y -i ~/.ssh/id_dropbear $*' > ~/../usr/bin/ssh-id
 chmod +x ~/../usr/bin/ssh-id
 ```
 
@@ -38,7 +39,7 @@ export GIT_SSH=$HOME/../usr/bin/ssh-id
 
 <br />
 
-5 - Add SSH **public** key from step 2 to Github
+5 - Add SSH **public** key from step 2 to [Github SSH Keys](https://github.com/settings/ssh/new)
 
 <br />
 
@@ -57,7 +58,11 @@ git remote add origin git@github.com:<username>/<repo>.git
 git push -u origin master
 ```
 
-When pushing next time, you can simply use `git push`.
+When pushing next time, you can simply use:
+
+```bash
+git push
+```
 
 <br />
 

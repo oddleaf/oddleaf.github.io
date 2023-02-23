@@ -1,22 +1,40 @@
 
 tanggal - hari/pasaran
 
+2023/02/19  5:33 ahad/legi
+  -100k
+  sisa: 1jt 200k
+  # warung, utk dipecah jadi 50k
+  # kembalian disimpan
+
+2023/02/17  5:40 jumat/wage
+  -100k
+  sisa: 1jt 300k
+  # warung, utk dipecah jadi 50k
+  # kembalian disimpan
+
+2023/02/16  5:45 kamis/pon
+  -100k
+  sisa: 1jt 400k
+  # warung, utk dipecah jadi 50k
+  # kembalian disimpan
+
 2023/02/15 11:11 rabu/pahing
   +1jt
   total: 1jt 500k
   # tarik tunai di toko pk gpr
 
-2023/02/12 5:45 ahad/wage
+2023/02/12  5:45 ahad/wage
   -100k
   sisa: 500k
   # warung, kembalian disimpan
 
-2023/02/09 5:45 kamis/legi
+2023/02/09  5:45 kamis/legi
   -50k
   sisa: 600k
   # warung
 
-2023/02/07 6:10 selasa/wage
+2023/02/07  6:10 selasa/wage
   -50k
   sisa: 650k
   # beli lampu utk ruang tamu

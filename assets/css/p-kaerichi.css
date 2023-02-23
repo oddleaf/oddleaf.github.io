@@ -1,0 +1,56 @@
+
+.flood {
+  color: red;
+  animation-name: floop;
+  animation-duration: 4s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-direction: forward;
+}
+
+.fred-1 {
+  animation-name: fade;
+  animation-duration: 4s;
+  animation-delay: 9s;
+  animation-fill-mode: forwards;
+  font-weight: normal;
+}
+
+.fred-2 {
+  animation-name: fade;
+  animation-duration: 4s;
+  animation-delay: 15s;
+  animation-fill-mode: forwards;
+  font-weight: normal;
+}
+
+@keyframes floop {
+  0% {
+    color: red;
+  }
+  
+  50% {
+    color: #9B000A;
+  }
+  
+  100% {
+    color: red;
+  }
+}
+
+@keyframes fade {
+  0% {
+    color: inherit;
+    font-weight: 400;
+  }
+  
+  70% {
+    color: red;
+    font-weight: 600;
+  }
+  
+  100% {
+    color: #BC0018;
+    font-weight: 700;
+  }
+}

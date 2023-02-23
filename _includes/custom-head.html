@@ -11,3 +11,8 @@
 {%- if page.url == '/' -%}
   <meta name="google-site-verification" content="QrAQjFUJN84mbHXenxlA-KxBe2aGlLCkXD6DtfrIoS8" />
 {%- endif -%}
+
+{%- if page.css -%}
+  {%- assign custom_style_url = "/assets/css/" | append: page.css | append: ".css" -%}
+  <link rel="stylesheet" href="{{ custom_style_url | relative_url }}">
+{%- endif -%}

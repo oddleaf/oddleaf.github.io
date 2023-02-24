@@ -99,13 +99,13 @@
 .bgsp-2 {
   background-image: url("/assets/img/splatter-2.png");
   top: 50%;
-  animation-delay: 4s;
+  animation-delay: 3s;
 }
 
 .bgsp-3 {
   background-image: url("/assets/img/splatter.png");
   top: 99%;
-  animation-delay: 8s;
+  animation-delay: 4s;
 }
 
 @keyframes fadein {

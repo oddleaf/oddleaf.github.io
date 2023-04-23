@@ -1,6 +1,16 @@
 
 tanggal - hari/pasaran
 
+2023/02/27  5:28 senin/wage
+  -100k
+  sisa: 1jt
+  # warung
+
+？？？
+  -100k
+  sisa: 1jt 100k
+  # beli headset bluetooth
+
 2023/02/19  5:33 ahad/legi
   -100k
   sisa: 1jt 200k

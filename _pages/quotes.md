@@ -16,6 +16,10 @@ Anyone who has never made a mistake, has never tried anything new
 
 # What came into mind, for myself
 
+## 2023/04/05
+
+Be careful of what you treat as your universe
+
 ## 2022/08/23
 
 I don't teach atrocity, it's your fault to follow the devil
